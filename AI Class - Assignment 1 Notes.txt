@@ -1,0 +1,6 @@
+AI Class - Assignment 1 Notes
+-------------------------------------
+- GitHub is a powerful platform for version control and collaboration.
+- Creating repositories helps organize projects.
+- Markdown is useful for formatting files.
+- Sharing repositories allows teamwork and feedback.
